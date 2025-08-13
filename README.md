@@ -4,7 +4,7 @@ Welcome to my portfolio showcasing a comprehensive case study for Bellabeat, usi
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Bellabeat-Project/
@@ -37,7 +37,7 @@ Bellabeat-Project/
 ```
 
 
-## 📊 Key Insights
+## Key Insights
 
 * **METs vs Weight Change**: Each +1 MET correlates with \~0.23% weight loss (R²=0.29).
 * **Activity Intensity vs METs**: Very-active minutes explain \~60% of MET variation (p<0.0001).
@@ -46,7 +46,7 @@ Bellabeat-Project/
 
 ---
 
-## 🎯 Recommendations
+## Recommendations
 
 * Highlight "Very Active" streaks in the Bellabeat app.
 * Send light-activity reminders to boost overall METs.
@@ -55,7 +55,7 @@ Bellabeat-Project/
 
 ---
 
-## 📂 Additional Resources
+## Additional Resources
 
 * **Data Sources**: Original Kaggle Fitbit dataset (CC0 Public Domain).
 * **R Code**: Modular scripts in `code/` folder.
