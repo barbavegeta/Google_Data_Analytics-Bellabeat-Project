@@ -1,6 +1,6 @@
 # Bellabeat Fitbit Data Analysis Portfolio
 
-Welcome to my portfolio showcasing a comprehensive case study for Bellabeat, using Fitbit data. This repository contains all the materials—data, analysis code, visualizations, and the final presentation—to demonstrate my end-to-end analytics workflow.
+Welcome to my portfolio showcasing a comprehensive case study for Bellabeat, using Fitbit data. This repository contains all the materials data, analysis code, visualizations, and the final presentation, to demonstrate my end-to-end analytics workflow.
 
 ---
 
