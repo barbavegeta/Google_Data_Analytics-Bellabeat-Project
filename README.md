@@ -74,7 +74,7 @@ These are the main figures used in the presentation and dashboard to discuss rel
   - Recommendations for Bellabeat (product focus, target users, feature emphasis).
 ### `tableau/`
 - `Bellabeat_Dashboard.twbx`  
-  Packaged Tableau workbook containing the interactive dashboard built from `user_summary_write4.csv` and related data extracts.
+  Packaged Tableau workbook containing the interactive dashboard built from `user_summary_write.csv` and related data extracts.
 ---
 ## How to run the R analysis
 1. Open R or RStudio and set the working directory to the `code/` folder (or project root and adjust paths accordingly):
@@ -107,7 +107,7 @@ These are the main figures used in the presentation and dashboard to discuss rel
 ## How to use the Tableau dashboard
 1. Open `tableau/Bellabeat_Dashboard.twbx` in Tableau Desktop or Tableau Public.
 2. The workbook is self-contained (packaged), but it is conceptually driven by:
-   - `user_summary_write4.csv`
+   - `user_summary_write.csv`
    - Other summary tables in `data/`
 Use the filters and views to explore:
 - Activity levels across user segments.
